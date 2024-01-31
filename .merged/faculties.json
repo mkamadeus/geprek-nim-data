@@ -1,0 +1,159 @@
+{
+  "160": {
+    "id": "160",
+    "short_name": "FMIPA",
+    "name": "Fakultas Matematika dan Ilmu Pengetahuan Alam",
+    "locales": {
+      "en": {
+        "name": "Faculty of Mathematics and Natural Sciences"
+      }
+    }
+  },
+  "161": {
+    "id": "161",
+    "short_name": "SITH-S",
+    "name": "Sekolah Ilmu Teknologi Hayati - Sains",
+    "locales": {
+      "en": {
+        "name": "School of Life Sciences and Technology - Science"
+      }
+    }
+  },
+  "162": {
+    "id": "162",
+    "short_name": "SF",
+    "name": "Sekolah Farmasi",
+    "locales": {
+      "en": {
+        "name": "School of Pharmacy"
+      }
+    }
+  },
+  "163": {
+    "id": "163",
+    "short_name": "FITB",
+    "name": "Fakultas Ilmu dan Teknologi Kebumian",
+    "locales": {
+      "en": {
+        "name": "Faculty of Earth Science and Technology"
+      }
+    }
+  },
+  "164": {
+    "id": "164",
+    "short_name": "FTTM",
+    "name": "Fakultas Teknik Pertambangan dan Perminyakan",
+    "locales": {
+      "en": {
+        "name": "Faculty of Mining and Petroleum Engineering"
+      }
+    }
+  },
+  "165": {
+    "id": "165",
+    "short_name": [
+      "STEI-R",
+      "STEIR"
+    ],
+    "name": "Sekolah Teknik Elektro dan Informatika - Rekayasa",
+    "locales": {
+      "en": {
+        "name": "School of Electrical Engineering and Informatics - Engineering"
+      }
+    },
+    "alt": [
+      {
+        "name": "Sekolah Teknik Elektro dan Informatika",
+        "short_name": "STEI",
+        "locales": {
+          "en": {
+            "name": "School of Electrical Engineering and Informatics"
+          }
+        }
+      }
+    ]
+  },
+  "166": {
+    "id": "166",
+    "short_name": "FTSL",
+    "name": "Fakultas Teknik Sipil dan Lingkungan",
+    "locales": {
+      "en": {
+        "name": "Faculty of Civil and Environmental Engineering"
+      }
+    }
+  },
+  "167": {
+    "id": "167",
+    "short_name": "FTI",
+    "name": "Fakultas Teknologi Industri",
+    "locales": {
+      "en": {
+        "name": "Faculty of Industrial Technology"
+      }
+    }
+  },
+  "168": {
+    "id": "168",
+    "short_name": "FSRD",
+    "name": "Fakultas Seni Rupa dan Desain",
+    "locales": {
+      "en": {
+        "name": "Faculty of Art and Design"
+      }
+    }
+  },
+  "169": {
+    "id": "169",
+    "short_name": "STEI-K",
+    "name": "Sekolah Teknik Elektro dan Informatika - Komputasi",
+    "locales": {
+      "en": {
+        "name": "School of Electrical Engineering and Informatics - Computer Science"
+      }
+    }
+  },
+  "192": {
+    "id": "192",
+    "short_name": [
+      "STEI-K",
+      "STEIK"
+    ],
+    "name": "Sekolah Teknik Elektro dan Informatika - Komputasi",
+    "locales": {
+      "en": {
+        "name": "School of Electrical Engineering and Informatics - Computing"
+      }
+    }
+  },
+  "197": {
+    "id": "197",
+    "short_name": "SBM",
+    "name": "Sekolah Bisnis dan Manajemen",
+    "locales": {
+      "en": {
+        "name": "School of Business and Management"
+      }
+    }
+  },
+  "198": {
+    "id": "198",
+    "short_name": "SITH-R",
+    "name": "Sekolah Ilmu Teknologi Hayati - Rekayasa",
+    "locales": {
+      "en": {
+        "name": "School of Life Science and Technology - Engineering"
+      }
+    }
+  },
+  "199": {
+    "id": "199",
+    "short_name": "SAPPK",
+    "name": "Sekolah Arsitektur, Perencanaan, dan Pengembangan Kebijakan",
+    "locales": {
+      "en": {
+        "name": "School of Architecture, Planning and Policy Development"
+      }
+    }
+  }
+}

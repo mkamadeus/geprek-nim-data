@@ -1,0 +1,13 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["students/*.json"],
+      "url": "./schemas/students.json"
+    },
+    {
+      "fileMatch": ["faculties/*.json"],
+      "url": "./schemas/faculty.json"
+    }
+  ]
+
+}

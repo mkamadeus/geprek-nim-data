@@ -1,0 +1,10 @@
+{
+  "id": "192",
+  "short_name": ["STEI-K", "STEIK"],
+  "name": "Sekolah Teknik Elektro dan Informatika - Komputasi",
+  "locales": {
+    "en": {
+      "name": "School of Electrical Engineering and Informatics - Computing"
+    }
+  }
+}

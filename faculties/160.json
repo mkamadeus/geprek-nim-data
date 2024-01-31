@@ -1,0 +1,10 @@
+{
+  "id": "160",
+  "short_name": "FMIPA",
+  "name": "Fakultas Matematika dan Ilmu Pengetahuan Alam",
+  "locales": {
+    "en": {
+      "name": "Faculty of Mathematics and Natural Sciences"
+    }
+  }
+}
