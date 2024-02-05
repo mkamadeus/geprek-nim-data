@@ -6,5 +6,8 @@
     "en": {
       "name": "School of Life Science and Technology - Engineering"
     }
+  },
+  "alt": {
+    "short_name": ["SITHR"]
   }
 }

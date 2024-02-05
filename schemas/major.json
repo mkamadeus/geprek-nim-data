@@ -5,37 +5,39 @@
   "properties": {
     "id": {
       "type": "string",
-      "description": "Faculty unique ID."
+      "description": "The unique identifier of the major."
+    },
+    "faculty": {
+      "type": "string",
+      "description": "The faculty to which the major belongs."
     },
     "short_name": {
       "type": "string",
-      "description": "Faculty unique codename."
+      "description": "The short name of the major."
     },
     "name": {
       "type": "string",
-      "description": "Faculty name."
+      "description": "The full name of the major."
     },
     "locales": {
       "type": "object",
-      "description": "Faculty related locales."
+      "description": "The localized names of the major."
     },
     "alt": {
       "type": "object",
-      "description": "Alternative values for the faculty.",
       "properties": {
         "short_name": {
           "type": "array",
-          "description": "Faculty alternative unique codenames.",
           "items": {
             "type": "string"
-          }
+          },
+          "description": "Alternative short names of the major."
         },
         "name": {
-          "description": "Faculty alternative name.",
-          "type": "string"
+          "type": "string",
+          "description": "Alternative full name of the major."
         }
       }
     }
   }
-
 }

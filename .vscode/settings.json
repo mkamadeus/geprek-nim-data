@@ -7,6 +7,10 @@
     {
       "fileMatch": ["faculties/*.json"],
       "url": "./schemas/faculty.json"
+    },
+    {
+      "fileMatch": ["majors/*.json"],
+      "url": "./schemas/major.json"
     }
   ]
 

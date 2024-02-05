@@ -1,21 +1,14 @@
 {
   "id": "165",
-  "short_name": ["STEI-R", "STEIR"],
+  "short_name": "STEI-R",
   "name": "Sekolah Teknik Elektro dan Informatika - Rekayasa",
   "locales": {
     "en": {
       "name": "School of Electrical Engineering and Informatics - Engineering"
     }
   },
-  "alt": [
-    {
-      "name": "Sekolah Teknik Elektro dan Informatika",
-      "short_name": "STEI",
-      "locales": {
-        "en": {
-          "name": "School of Electrical Engineering and Informatics"
-        }
-      }
-    }
-  ]
+  "alt": {
+    "name": "Sekolah Teknik Elektro dan Informatika",
+    "short_name": ["STEIR", "STEI"]
+  }
 }

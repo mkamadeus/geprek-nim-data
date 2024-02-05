@@ -6,5 +6,8 @@
     "en": {
       "name": "School of Life Sciences and Technology - Science"
     }
+  },
+  "alt": {
+    "short_name": ["SITHS"]
   }
 }

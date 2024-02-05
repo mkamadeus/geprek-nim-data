@@ -4,9 +4,20 @@
   "items": {
     "type": "array",
     "items": [
-      {"type": "string"},
-      {"type": "string", "pattern": "^[0-9]{8}$"},
-      {"type": "string", "pattern": "^[0-9]{8}$"}
+      {
+        "type": "string",
+        "description": "Name of the student."
+      },
+      {
+        "type": "string", 
+        "pattern": "^[0-9]{8}$",
+        "description": "Faculty ID of the student (NIM TPB)."
+      },
+      {
+        "type": "string",
+        "pattern": "^[0-9]{8}$",
+        "description": "Major ID of the student (NIM Jurusan). May not exist under some conditions (e.g: dropped out, haven't got into the major selection yet, etc.)"
+      }
     ],
     "minItems": 2,
     "maxItems": 3
