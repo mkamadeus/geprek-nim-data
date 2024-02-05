@@ -1,0 +1,6 @@
+version: 3
+
+tasks:
+  merge:
+    cmds:
+      - python3 ./scripts/merge.py

@@ -1,0 +1,555 @@
+{
+  "101": {
+    "id": "101",
+    "faculty": "160",
+    "short_name": "MA",
+    "name": "Matematika",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "102": {
+    "id": "102",
+    "faculty": "160",
+    "short_name": "FI",
+    "name": "Fisika",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "103": {
+    "id": "103",
+    "faculty": "160",
+    "short_name": "AS",
+    "name": "Astronomi",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "104": {
+    "id": "104",
+    "faculty": "161",
+    "short_name": "BM",
+    "name": "Mikrobiologi",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "105": {
+    "id": "105",
+    "faculty": "160",
+    "short_name": "KI",
+    "name": "Kimia",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "106": {
+    "id": "106",
+    "faculty": "161",
+    "short_name": "BI",
+    "name": "Biologi",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "107": {
+    "id": "107",
+    "faculty": null,
+    "short_name": "STF",
+    "name": "Sains dan Teknologi Farmasi",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "108": {
+    "id": "108",
+    "faculty": "160",
+    "short_name": "AK",
+    "name": "Aktuaria",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "112": {
+    "id": "112",
+    "faculty": "198",
+    "short_name": "BE",
+    "name": "Rekayasa Hayati",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "114": {
+    "id": "114",
+    "faculty": "198",
+    "short_name": "BA",
+    "name": "Rekayasa Pertanian",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "115": {
+    "id": "115",
+    "faculty": "198",
+    "short_name": "BW",
+    "name": "Rekayasa Kehutanan",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "116": {
+    "id": "116",
+    "faculty": null,
+    "short_name": "FKK",
+    "name": "Farmasi Klinik dan Komunitas",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "119": {
+    "id": "119",
+    "faculty": "198",
+    "short_name": "BP",
+    "name": "Teknologi Pasca Panen",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "120": {
+    "id": "120",
+    "faculty": "163",
+    "short_name": "GL",
+    "name": "Teknik Geologi",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "121": {
+    "id": "121",
+    "faculty": null,
+    "short_name": "TA",
+    "name": "Teknik Pertambangan",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "122": {
+    "id": "122",
+    "faculty": "164",
+    "short_name": "TM",
+    "name": "Teknik Perminyakan",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "123": {
+    "id": "123",
+    "faculty": "164",
+    "short_name": "TG",
+    "name": "Teknik Geofisika",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "125": {
+    "id": "125",
+    "faculty": "164",
+    "short_name": "MG",
+    "name": "Teknik Metalurgi",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "128": {
+    "id": "128",
+    "faculty": "163",
+    "short_name": "ME",
+    "name": "Meteorologi",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "129": {
+    "id": "129",
+    "faculty": "163",
+    "short_name": "OS",
+    "name": "Oseanografi",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "130": {
+    "id": "130",
+    "faculty": "167",
+    "short_name": "TK",
+    "name": "Teknik Kimia",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "131": {
+    "id": "131",
+    "faculty": "169",
+    "short_name": "MS",
+    "name": "Teknik Mesin",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "132": {
+    "id": "132",
+    "faculty": "165",
+    "short_name": "EL",
+    "name": "Teknik Elektro",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "133": {
+    "id": "133",
+    "faculty": "167",
+    "short_name": "TF",
+    "name": "Teknik Fisika",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "134": {
+    "id": "134",
+    "faculty": "167",
+    "short_name": "TI",
+    "name": "Teknik Industri",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "135": {
+    "id": "135",
+    "faculty": "192",
+    "short_name": "IF",
+    "name": "Teknik Informatika",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "136": {
+    "id": "136",
+    "faculty": "169",
+    "short_name": "AE",
+    "name": "Teknik Dirgantara",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "137": {
+    "id": "137",
+    "faculty": "169",
+    "short_name": "MT",
+    "name": "Teknik Material",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "143": {
+    "id": "143",
+    "faculty": "167",
+    "short_name": "PG",
+    "name": "Teknik Pangan",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "144": {
+    "id": "144",
+    "faculty": "167",
+    "short_name": [
+      "MR",
+      "MRI"
+    ],
+    "name": "Manajemen Rekayasa Industri",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "145": {
+    "id": "145",
+    "faculty": "167",
+    "short_name": "TB",
+    "name": "Teknik Bioenergi dan Kemurgi",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "150": {
+    "id": "150",
+    "faculty": "166",
+    "short_name": "SI",
+    "name": "Teknik Sipil",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "151": {
+    "id": "151",
+    "faculty": "163",
+    "short_name": "GD",
+    "name": "Teknik Geodesi dan Geomatika",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "152": {
+    "id": "152",
+    "faculty": "199",
+    "short_name": "AR",
+    "name": "Arsitektur",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "153": {
+    "id": "153",
+    "faculty": "166",
+    "short_name": "TL",
+    "name": "Teknik Lingkungan",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "154": {
+    "id": "154",
+    "faculty": "199",
+    "short_name": "PWK",
+    "name": "Perencanaan Wilayah dan Kota",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "155": {
+    "id": "155",
+    "faculty": "166",
+    "short_name": "KL",
+    "name": "Teknik Kelautan",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "157": {
+    "id": "157",
+    "faculty": "166",
+    "short_name": "IL",
+    "name": "Rekayasa Infrastruktur Lingkungan",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "158": {
+    "id": "158",
+    "faculty": "166",
+    "short_name": "SA",
+    "name": "Teknik dan Pengelolaan Sumber Daya Air",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "170": {
+    "id": "170",
+    "faculty": "168",
+    "short_name": "SR",
+    "name": "Seni Rupa",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "172": {
+    "id": "172",
+    "faculty": "168",
+    "short_name": "KR",
+    "name": "Kriya",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "173": {
+    "id": "173",
+    "faculty": "168",
+    "short_name": "DI",
+    "name": "Desain Interior",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "174": {
+    "id": "174",
+    "faculty": "168",
+    "short_name": "DKV",
+    "name": "Desain Komunikasi Visual",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "175": {
+    "id": "175",
+    "faculty": "168",
+    "short_name": "DP",
+    "name": "Desain Produk",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "180": {
+    "id": "180",
+    "faculty": "165",
+    "short_name": "EP",
+    "name": "Teknik Tenaga Listrik",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "181": {
+    "id": "181",
+    "faculty": "165",
+    "short_name": "ET",
+    "name": "Teknik Telekomunikasi",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "182": {
+    "id": "182",
+    "faculty": "192",
+    "short_name": "STI",
+    "name": "Sistem Teknologi dan Informasi",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "183": {
+    "id": "183",
+    "faculty": "165",
+    "short_name": "EB",
+    "name": "Teknik Biomedis",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "190": {
+    "id": "190",
+    "faculty": "197",
+    "short_name": "MB",
+    "name": "Manajemen",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  },
+  "192": {
+    "id": "192",
+    "faculty": "197",
+    "short_name": "MK",
+    "name": "Kewirausahaan",
+    "locales": {
+      "en": {
+        "name": null
+      }
+    }
+  }
+}
