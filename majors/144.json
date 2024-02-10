@@ -1,11 +1,14 @@
 {
   "id": "144",
   "faculty": "167",
-  "short_name": ["MR", "MRI"],
+  "short_name": "MR",
   "name": "Manajemen Rekayasa Industri",
   "locales": {
     "en": {
       "name": null
     }
+  },
+  "alt": {
+    "short_name": ["MRI"]
   }
 }

@@ -1,6 +1,13 @@
 version: 3
 
 tasks:
+  default:
+    cmds:
+      - task: validate
+      - task: merge
   merge:
     cmds:
       - python3 ./scripts/merge.py
+  validate:
+    cmds:
+      - python3 ./scripts/validate.py

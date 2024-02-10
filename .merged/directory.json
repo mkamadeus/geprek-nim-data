@@ -1,0 +1,126 @@
+{
+  "160": {
+    "faculty_name": "Fakultas Matematika dan Ilmu Pengetahuan Alam",
+    "faculty_majors": {
+      "101": "Matematika",
+      "102": "Fisika",
+      "103": "Astronomi",
+      "105": "Kimia",
+      "108": "Aktuaria"
+    }
+  },
+  "161": {
+    "faculty_name": "Sekolah Ilmu Teknologi Hayati - Sains",
+    "faculty_majors": {
+      "104": "Mikrobiologi",
+      "106": "Biologi"
+    }
+  },
+  "162": {
+    "faculty_name": "Sekolah Farmasi",
+    "faculty_majors": {
+      "107": "Sains dan Teknologi Farmasi",
+      "116": "Farmasi Klinik dan Komunitas"
+    }
+  },
+  "163": {
+    "faculty_name": "Fakultas Ilmu dan Teknologi Kebumian",
+    "faculty_majors": {
+      "120": "Teknik Geologi",
+      "128": "Meteorologi",
+      "129": "Oseanografi",
+      "151": "Teknik Geodesi dan Geomatika"
+    }
+  },
+  "164": {
+    "faculty_name": "Fakultas Teknik Pertambangan dan Perminyakan",
+    "faculty_majors": {
+      "121": "Teknik Pertambangan",
+      "122": "Teknik Perminyakan",
+      "123": "Teknik Geofisika",
+      "125": "Teknik Metalurgi"
+    }
+  },
+  "165": {
+    "faculty_name": "Sekolah Teknik Elektro dan Informatika - Rekayasa",
+    "faculty_majors": {
+      "132": "Teknik Elektro",
+      "180": "Teknik Tenaga Listrik",
+      "181": "Teknik Telekomunikasi",
+      "183": "Teknik Biomedis"
+    }
+  },
+  "166": {
+    "faculty_name": "Fakultas Teknik Sipil dan Lingkungan",
+    "faculty_majors": {
+      "150": "Teknik Sipil",
+      "153": "Teknik Lingkungan",
+      "155": "Teknik Kelautan",
+      "157": "Rekayasa Infrastruktur Lingkungan",
+      "158": "Teknik dan Pengelolaan Sumber Daya Air"
+    }
+  },
+  "167": {
+    "faculty_name": "Fakultas Teknologi Industri",
+    "faculty_majors": {
+      "130": "Teknik Kimia",
+      "133": "Teknik Fisika",
+      "134": "Teknik Industri",
+      "143": "Teknik Pangan",
+      "144": "Manajemen Rekayasa Industri",
+      "145": "Teknik Bioenergi dan Kemurgi"
+    }
+  },
+  "168": {
+    "faculty_name": "Fakultas Seni Rupa dan Desain",
+    "faculty_majors": {
+      "170": "Seni Rupa",
+      "172": "Kriya",
+      "173": "Desain Interior",
+      "174": "Desain Komunikasi Visual",
+      "175": "Desain Produk"
+    }
+  },
+  "169": {
+    "faculty_name": "Sekolah Teknik Elektro dan Informatika - Komputasi",
+    "faculty_majors": {
+      "131": "Teknik Mesin",
+      "136": "Teknik Dirgantara",
+      "137": "Teknik Material"
+    }
+  },
+  "192": {
+    "faculty_name": "Sekolah Teknik Elektro dan Informatika - Komputasi",
+    "faculty_majors": {
+      "135": "Teknik Informatika",
+      "182": "Sistem Teknologi dan Informasi"
+    }
+  },
+  "197": {
+    "faculty_name": "Sekolah Bisnis dan Manajemen",
+    "faculty_majors": {
+      "190": "Manajemen",
+      "192": "Kewirausahaan"
+    }
+  },
+  "198": {
+    "faculty_name": "Sekolah Ilmu Teknologi Hayati - Rekayasa",
+    "faculty_majors": {
+      "112": "Rekayasa Hayati",
+      "114": "Rekayasa Pertanian",
+      "115": "Rekayasa Kehutanan",
+      "119": "Teknologi Pasca Panen"
+    }
+  },
+  "199": {
+    "faculty_name": "Sekolah Arsitektur, Perencanaan, dan Pengembangan Kebijakan",
+    "faculty_majors": {
+      "152": "Arsitektur",
+      "154": "Perencanaan Wilayah dan Kota"
+    }
+  },
+  "unassigned": {
+    "faculty_name": "N/A",
+    "faculty_majors": {}
+  }
+}

@@ -23,7 +23,7 @@
       "type": "object",
       "description": "Alternative values for the faculty.",
       "properties": {
-        "short_name": {
+        "short_names": {
           "type": "array",
           "description": "Faculty alternative unique codenames.",
           "items": {

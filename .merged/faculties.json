@@ -17,6 +17,11 @@
       "en": {
         "name": "School of Life Sciences and Technology - Science"
       }
+    },
+    "alt": {
+      "short_name": [
+        "SITHS"
+      ]
     }
   },
   "162": {
@@ -51,27 +56,20 @@
   },
   "165": {
     "id": "165",
-    "short_name": [
-      "STEI-R",
-      "STEIR"
-    ],
+    "short_name": "STEI-R",
     "name": "Sekolah Teknik Elektro dan Informatika - Rekayasa",
     "locales": {
       "en": {
         "name": "School of Electrical Engineering and Informatics - Engineering"
       }
     },
-    "alt": [
-      {
-        "name": "Sekolah Teknik Elektro dan Informatika",
-        "short_name": "STEI",
-        "locales": {
-          "en": {
-            "name": "School of Electrical Engineering and Informatics"
-          }
-        }
-      }
-    ]
+    "alt": {
+      "name": "Sekolah Teknik Elektro dan Informatika",
+      "short_name": [
+        "STEIR",
+        "STEI"
+      ]
+    }
   },
   "166": {
     "id": "166",
@@ -115,15 +113,19 @@
   },
   "192": {
     "id": "192",
-    "short_name": [
-      "STEI-K",
-      "STEIK"
-    ],
+    "short_name": "STEI-K",
     "name": "Sekolah Teknik Elektro dan Informatika - Komputasi",
     "locales": {
       "en": {
         "name": "School of Electrical Engineering and Informatics - Computing"
       }
+    },
+    "alt": {
+      "name": "Sekolah Teknik Elektro dan Informatika",
+      "short_name": [
+        "STEIK",
+        "STEI"
+      ]
     }
   },
   "197": {
@@ -144,6 +146,11 @@
       "en": {
         "name": "School of Life Science and Technology - Engineering"
       }
+    },
+    "alt": {
+      "short_name": [
+        "SITHR"
+      ]
     }
   },
   "199": {

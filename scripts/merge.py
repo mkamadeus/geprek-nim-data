@@ -8,7 +8,7 @@ MERGED_DIRECTORY = pathlib.Path("./.merged")
 
 # merge students
 students = []
-for filename in os.listdir("./students"):
+for filename in reversed(sorted(os.listdir("./students"))):
     with open(f"./students/{filename}", "r") as f:
         students.append(json.load(f))
 
@@ -36,11 +36,19 @@ with open(MERGED_DIRECTORY / "majors.json", "w") as f:
     json.dump(majors, f, indent=2)
 
 # create mappings
-mappings = {faculty: [] for faculty in faculties.keys()}
+mappings = {
+    faculty_id: {"faculty_name": faculties[faculty_id]["name"], "faculty_majors": {}}
+    for faculty_id in faculties.keys()
+}
+mappings["unassigned"] = {"faculty_name": "N/A", "faculty_majors": {}}
+
 for major_id, major in majors.items():
     if major["faculty"] is not None:
-        mappings[major["faculty"]].append(
-            {"major_id": major["id"], "major_name": major["name"]}
+        mappings[major["faculty"]]["faculty_majors"].update(
+            {major["id"]: major["name"]}
         )
+    else:
+        mappings["unassigned"]["faculty_majors"].update({major["id"]: major["name"]})
 
-print(json.dumps(mappings, indent=2))
+with open(MERGED_DIRECTORY / "directory.json", "w") as f:
+    json.dump(mappings, f, indent=2)

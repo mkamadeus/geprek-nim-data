@@ -1,11 +1,14 @@
 {
   "id": "107",
   "faculty": "162",
-  "short_name": ["STF", "FA"],
+  "short_name": "FA",
   "name": "Sains dan Teknologi Farmasi",
   "locales": {
     "en": {
       "name": null
     }
+  },
+  "alt": {
+    "short_name": ["STF"]
   }
 }

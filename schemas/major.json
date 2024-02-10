@@ -26,7 +26,7 @@
     "alt": {
       "type": "object",
       "properties": {
-        "short_name": {
+        "short_names": {
           "type": "array",
           "items": {
             "type": "string"
