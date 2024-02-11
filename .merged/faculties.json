@@ -103,29 +103,22 @@
   },
   "169": {
     "id": "169",
+    "short_name": "FTMD",
+    "name": "Fakultas Teknik Mesin dan Dirgantara",
+    "locales": {
+      "en": {
+        "name": "Faculty of Mechanical and Aerospace Engineering"
+      }
+    }
+  },
+  "196": {
+    "id": "196",
     "short_name": "STEI-K",
     "name": "Sekolah Teknik Elektro dan Informatika - Komputasi",
     "locales": {
       "en": {
         "name": "School of Electrical Engineering and Informatics - Computer Science"
       }
-    }
-  },
-  "192": {
-    "id": "192",
-    "short_name": "STEI-K",
-    "name": "Sekolah Teknik Elektro dan Informatika - Komputasi",
-    "locales": {
-      "en": {
-        "name": "School of Electrical Engineering and Informatics - Computing"
-      }
-    },
-    "alt": {
-      "name": "Sekolah Teknik Elektro dan Informatika",
-      "short_name": [
-        "STEIK",
-        "STEI"
-      ]
     }
   },
   "197": {

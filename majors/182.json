@@ -1,11 +1,14 @@
 {
   "id": "182",
-  "faculty": "192",
+  "faculty": "196",
   "short_name": "STI",
   "name": "Sistem Teknologi dan Informasi",
   "locales": {
     "en": {
       "name": null
     }
+  },
+  "alt": {
+    "faculty": "165"
   }
 }

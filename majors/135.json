@@ -1,11 +1,14 @@
 {
   "id": "135",
-  "faculty": "192",
+  "faculty": "196",
   "short_name": "IF",
   "name": "Teknik Informatika",
   "locales": {
     "en": {
       "name": null
     }
+  },
+  "alt": {
+    "faculty": "165"
   }
 }

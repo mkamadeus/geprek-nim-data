@@ -36,6 +36,10 @@
         "name": {
           "type": "string",
           "description": "Alternative full name of the major."
+        },
+        "faculty": {
+          "type": "string",
+          "description": "Alternative faculty to which the major belongs for histroical reasons."
         }
       }
     }
